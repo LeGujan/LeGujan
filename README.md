@@ -14,12 +14,12 @@
 
 ## Programming languages / tools:
 ### Languages:
-[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />]
-[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />]
+[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/3600/3600912.png" />]
+[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />]
 [<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />]
-[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/136/136528.png" />]
-[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/136/136527.png" />]
-[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/2306/2306122.png" />]
+[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />]
+[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />]
+[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" />]
 ### Tools:
 [<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />]
 [<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" />]
