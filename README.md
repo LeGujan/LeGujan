@@ -21,6 +21,10 @@
 [<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/136/136527.png" />]
 [<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/2306/2306122.png" />]
 ### Tools:
+[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />]
+[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" />]
+[<img align="left" width="30px" src="https://img.icons8.com/fluency/344/blender-3d.png" />]
+[<img align="left" width="30px" src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611064.png?token=exp=1649545646~hmac=96126f202a4f56df7dc9db478bb008e6" />]
 
 <br />
 <br />
