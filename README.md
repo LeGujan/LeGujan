@@ -1,4 +1,4 @@
-## **👋 Hi, I’m Chriss <- aka @LeGujan ->**
+## **👋 Hi, I’m Chriss < aka @LeGujan >**
 
 ### I'm a student and a free learner
 - 👀 I’m interested in pretty much anything tech-related, but mostly on Fontend Web Development with HTML, CSS and JS
@@ -14,17 +14,28 @@
 
 ## Programming languages / tools:
 ### Languages:
-[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/3600/3600912.png" />]
-[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />]
-[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />]
-[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />]
-[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />]
-[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" />]
+<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/3600/3600912.png" />
+<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
+<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />
+<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
+<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
+<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" />
+
+<br />
+
 ### Tools:
-[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />]
-[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" />]
-[<img align="left" width="30px" src="https://img.icons8.com/fluency/344/blender-3d.png" />]
-[<img align="left" width="30px" src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611064.png?token=exp=1649545646~hmac=96126f202a4f56df7dc9db478bb008e6" />]
+<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />
+<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" />
+<img align="left" width="30px" src="https://img.icons8.com/fluency/344/blender-3d.png" />
+<img align="left" width="30px" src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611064.png?token=exp=1649545646~hmac=96126f202a4f56df7dc9db478bb008e6" />
+<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" />
+<img align="left" width="30px" src="https://cdn-icons.flaticon.com/png/512/3488/premium/3488435.png?token=exp=1649546256~hmac=b8fe6356138cad3910ca4f1e1009b04f" />
+
+<br />
+
+##
+
+<img aligh="left" src="https://github-readme-stats.vercel.app/api?username=LeGujan&hide=contribs,prs">
 
 <br />
 <br />
