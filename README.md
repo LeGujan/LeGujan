@@ -34,7 +34,7 @@
 
 ## My stats:
 
-<img aligh="left" src="https://github-readme-stats.vercel.app/api?username=LeGujan&hide=contribs,prs">
+<img aligh="left" src="https://github-readme-stats.vercel.app/api?username=LeGujan&&show_icons=true&title_color=ffffff&icon_color=00ffff&text_color=daf7dc&bg_color=151515">
 
 <br />
 <br />
