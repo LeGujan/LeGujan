@@ -12,6 +12,9 @@
     - [<figure><img align="left" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1649543503~hmac=65605085c74f08b39fc716a27f141f41" target="_blank" /><figcaption>Linkedin</figcaption></figure>][linkedin]
     - [<figure><img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/876/876019.png" target="_blank" /><figcaption>FreeCodeCamp</figcaption></figure>][freecodecamp]
 
+## Programming languages / tools:
+
+
 <br />
 <br />
 
