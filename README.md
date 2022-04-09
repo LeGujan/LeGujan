@@ -33,7 +33,7 @@
 
 <br />
 
-##
+## My stats:
 
 <img aligh="left" src="https://github-readme-stats.vercel.app/api?username=LeGujan&hide=contribs,prs">
 
