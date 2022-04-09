@@ -14,7 +14,6 @@
 
 ## Programming languages / tools:
 - ### Languages:
-<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/3600/3600912.png" />
 <img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
 <img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />
 <img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
