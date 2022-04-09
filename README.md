@@ -13,7 +13,7 @@
     - [<figure><img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/876/876019.png" target="_blank" /><figcaption>FreeCodeCamp</figcaption></figure>][freecodecamp]
 
 ## Programming languages / tools:
-### Languages:
+- ### Languages:
 <img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/3600/3600912.png" />
 <img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
 <img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />
@@ -23,7 +23,7 @@
 
 <br />
 
-### Tools:
+- ### Tools:
 <img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />
 <img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" />
 <img align="left" width="30px" src="https://img.icons8.com/fluency/344/blender-3d.png" />
