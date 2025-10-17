@@ -21,7 +21,6 @@ I love building beautiful web experiences, crafting digital art, and capturing t
 ### 💬 Languages
 <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C" />
 <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C++" />
-<img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/6132/6132206.png" alt="C#" />
 <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" />
 <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" />
 <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="HTML5" />
@@ -32,9 +31,7 @@ I love building beautiful web experiences, crafting digital art, and capturing t
 
 ### 🧩 Frameworks & Platforms
 <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React" />
-<img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Next.js" />
 <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="Visual Studio" />
-<img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="VS Code" />
 <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" alt="Git" />
 
 <br /><br />
@@ -42,8 +39,6 @@ I love building beautiful web experiences, crafting digital art, and capturing t
 ### 🎨 Creative Software
 <img align="left" width="32px" src="https://img.icons8.com/fluency/344/blender-3d.png" alt="Blender" />
 <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" alt="Unity" />
-<img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="DaVinci Resolve" />
-<img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="Adobe Lightroom" />
 
 <br /><br />
 
